@@ -72,6 +72,7 @@ python olho_maligno.py -u https://exemplo.com --depth 2 --delay 1 --rate 5 --for
 
 ```bash
 python olho_maligno.py -u https://exemplo.com --scope exemplo.com --delay 2 --rate 2 --format html
+C:\Users\felpz\AppData\Local\Python\pythoncore-3.14-64\python.exe "c:/Users/felpz/Downloads/olho maligno.py" -u https://www.optus.com.au/ --rate 5 --delay 1 --timeout 10
 ```
 
 ---
